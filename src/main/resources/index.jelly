@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin is a shared library. It provides the MariaDB Connector Java (v${revision}) jar so that other plugins can consume MariaDB Connector Java without duplication and without classpath collisions.
+</div>

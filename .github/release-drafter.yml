@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: mariadb-api-plugin-$NEXT_MINOR_VERSION
